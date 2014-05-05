@@ -2,3 +2,12 @@
     float: right;
     padding-left: 10px;
 }
+
+.site {
+    font-size: 110%;
+    text-align: justify;
+    width: 40em;
+    width: 42em;
+    margin: 3em auto 2em auto;
+    line-height: 1.5em;
+ }
