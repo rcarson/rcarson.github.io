@@ -1,3 +1,9 @@
+.name {
+    text-transform: uppercase;
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+
 .header-item {
     float: right;
     padding-left: 10px;
