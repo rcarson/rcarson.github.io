@@ -1,8 +1,10 @@
 .name {
     text-transform: uppercase;
     color: blue;
-    text-decoration: none;
     font-weight: bold;
+}
+.name a {
+    text-decoration: none;
 }
 
 .header-item {
