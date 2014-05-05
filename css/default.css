@@ -7,6 +7,10 @@
     text-decoration: none;
 }
 
+.posts .date {
+    float: right;
+}
+
 .header-item {
     float: right;
     padding-left: 10px;
